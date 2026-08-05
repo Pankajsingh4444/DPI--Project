@@ -5,7 +5,7 @@
 - [x] Dashboard layout
 - [x] Dashboard data
 - [ ] Charts
-- [ ] Packet capture API
+- [x] Packet capture API
 - [ ] Frontend API integration
 - [ ] Threat detection
 - [ ] CSV export
